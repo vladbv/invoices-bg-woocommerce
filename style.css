@@ -1,3 +1,6 @@
+.inscription_closebox{
+display:none !important;
+}
 #inscription_textbox{
 display:none;
 }
